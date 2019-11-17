@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  border: 1px solid red;
+  height: 200px
+}
+
+.box {
+  width: 100px
+}
+
+#one {
+  border: 1px solid blue;
+}
+
+#two {
+  border: 1px solid green;
+}
+
+#three {
+  border: 1px solid orange;
+}
