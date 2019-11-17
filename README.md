@@ -13,4 +13,10 @@ To experiment in this playground:
 
 0. Branch out from the `master` branch with a descriptive name - i.e. `align-items`.
 0. Play in the playground.
-0. Commit the changes to the branch and push to origin.
+0. Commit the changes to the branch in such a way that they tell a story. For
+   example, the first commit might be simple setup. The second commit might
+   change a single property, and the third commit might change that property's
+   value once again.
+
+As always, commit messages should be descriptive and explain `why` and `how`.
+The `what` is the commit's changes to the codebase itself.
