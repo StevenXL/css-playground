@@ -2,7 +2,7 @@
   display: flex;
   border: 1px solid red;
   height: 200px;
-  align-items: center
+  align-items: end;
 }
 
 .box {
